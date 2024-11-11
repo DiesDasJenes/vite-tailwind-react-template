@@ -1,10 +1,6 @@
 # React + Vite + TailWindCSS - A Template Repo
 
-It is a template repository for you to start a project using React and TailwindCSS. You just need to create a new repository from this template repo by clicking the button at the top right corner of this page.
-
-## Watch This Video
-
-https://www.youtube.com/watch?v=Zk2YJUvfsOA
+It is a template repository for you to start a project using React, TailwindCSS and the Testing Library. You just need to create a new repository from this template repo by clicking the button at the top right corner of this page.
 
 ## Links
 
